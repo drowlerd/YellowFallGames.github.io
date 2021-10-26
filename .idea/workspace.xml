@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="equipo añadidos">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/bestArt_gamegen-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/bestgame3rd_gamegen-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/gamegen_bestsound-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/tfac_bestgameplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/tfac_bestgame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/tfac_bestgameplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/zjam_specialjudge-07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +30,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/team" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/portfolio" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio\TFATC" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\docs\assets\img\team" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\portfolio" />
@@ -34,8 +47,11 @@
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YellowFallGames.github.io/docs/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PortfolioWebsite/docs/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YellowFallGames.github.io/index.html" useBuiltInWebServerPort="true">
@@ -43,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -60,6 +77,8 @@
       <workItem from="1635240693850" duration="1367000" />
       <workItem from="1635242711211" duration="475000" />
       <workItem from="1635243191212" duration="5466000" />
+      <workItem from="1635270613374" duration="11000" />
+      <workItem from="1635270625325" duration="1823000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
