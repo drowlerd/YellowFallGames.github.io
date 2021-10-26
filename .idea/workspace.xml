@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/roberto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/team/roberto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <workItem from="1635148576447" duration="559000" />
       <workItem from="1635240693850" duration="1367000" />
       <workItem from="1635242711211" duration="475000" />
-      <workItem from="1635243191212" duration="4504000" />
+      <workItem from="1635243191212" duration="5440000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -109,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635241491987</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="equipo añadidos">
+      <created>1635248590432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635248590432</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Plantilla Cambiada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plantilla Cambiada" />
+    <MESSAGE value="equipo añadidos" />
+    <option name="LAST_COMMIT_MESSAGE" value="equipo añadidos" />
   </component>
 </project>
