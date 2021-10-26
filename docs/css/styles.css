@@ -41,7 +41,7 @@
     --bs-danger: #dc3545;
     --bs-light: #f8f9fa;
     --bs-dark: #212529;
-    --bs-primary-rgb: 233, 78, 27;
+    --bs-primary-rgb: 243, 146, 0;
     --bs-secondary-rgb: 108, 117, 125;
     --bs-success-rgb: 25, 135, 84;
     --bs-info-rgb: 13, 202, 240;
@@ -12115,7 +12115,7 @@ header.masthead .masthead-heading {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgba(233, 78, 27, 0.9);
+    background: rgba(243, 146, 0, 0.9);
     align-items: center;
     justify-content: center;
     opacity: 0;
