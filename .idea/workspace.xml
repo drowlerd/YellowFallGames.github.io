@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Imagen añadida, colores de los fondos y textos cmabiados">
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Color redes sociales añadido">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/BattleCoreLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,18 +24,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/logos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio\TFATC" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\docs\assets\img\team" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
-      <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635631953758</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Color redes sociales añadido">
+      <created>1635635015514</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635635015514</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +167,7 @@
     <MESSAGE value="Plantilla Cambiada" />
     <MESSAGE value="equipo añadidos" />
     <MESSAGE value="Imagen añadida, colores de los fondos y textos cmabiados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Imagen añadida, colores de los fondos y textos cmabiados" />
+    <MESSAGE value="Color redes sociales añadido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color redes sociales añadido" />
   </component>
 </project>
