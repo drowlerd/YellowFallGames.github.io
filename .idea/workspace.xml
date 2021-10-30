@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="equipo añadidos">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/bestArt_gamegen-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/bestgame3rd_gamegen-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/gamegen_bestsound-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/TFATC/tfac_bestgameplay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/tfac_bestgame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/tfac_bestgameplay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/portfolio/zjam_specialjudge-07.png" afterDir="false" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Imagen añadida, colores de los fondos y textos cmabiados">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Videos/WelcomeScreenVideo.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
@@ -20,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1zzQjr4vHiiCE0HmLOw9SyCUEeF" />
   <component name="ProjectViewState">
@@ -158,6 +156,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Plantilla Cambiada" />
     <MESSAGE value="equipo añadidos" />
-    <option name="LAST_COMMIT_MESSAGE" value="equipo añadidos" />
+    <MESSAGE value="Imagen añadida, colores de los fondos y textos cmabiados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imagen añadida, colores de los fondos y textos cmabiados" />
   </component>
 </project>
