@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Test 3D">
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="maquetacion paginas piezas">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/GM_UI_join_BattelCore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/GM_UI_join_Guns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/GM_UI_join_cores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/GM_UI_join_legs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
@@ -33,6 +37,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1zzQjr4vHiiCE0HmLOw9SyCUEeF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,18 +54,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/3D" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/piecesIcons" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio\TFATC" />
-      <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\docs\assets\img\team" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
@@ -92,7 +104,7 @@
       <workItem from="1635270613374" duration="11000" />
       <workItem from="1635270625325" duration="1823000" />
       <workItem from="1635927926284" duration="354000" />
-      <workItem from="1639741486815" duration="4128000" />
+      <workItem from="1639741486815" duration="6792000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -178,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639743694205</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Escala del modelo ajustada">
+      <created>1639745915896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639745915896</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +235,8 @@
     <MESSAGE value="Color redes sociales añadido" />
     <MESSAGE value="Ultimos cambios" />
     <MESSAGE value="Test 3D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 3D" />
+    <MESSAGE value="Escala del modelo ajustada" />
+    <MESSAGE value="maquetacion paginas piezas" />
+    <option name="LAST_COMMIT_MESSAGE" value="maquetacion paginas piezas" />
   </component>
 </project>
