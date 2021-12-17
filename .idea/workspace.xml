@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Carousel de armas añadido">
-      <change afterPath="$PROJECT_DIR$/docs/assets/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Armas con nombre añadido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="yellowfallgames" />
+        <option name="repository" value="YellowFallGames.github.io" />
+      </RepoCoordinatesHolder>
+    </option>
   </component>
   <component name="ProjectId" id="1zzQjr4vHiiCE0HmLOw9SyCUEeF" />
   <component name="ProjectViewState">
@@ -102,7 +108,7 @@
       <workItem from="1635270613374" duration="11000" />
       <workItem from="1635270625325" duration="1823000" />
       <workItem from="1635927926284" duration="354000" />
-      <workItem from="1639741486815" duration="18260000" />
+      <workItem from="1639741486815" duration="22604000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -209,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639760745284</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Armas con nombre añadido">
+      <created>1639764580733</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639764580733</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,18 +263,7 @@
     <MESSAGE value="Escala del modelo ajustada" />
     <MESSAGE value="maquetacion paginas piezas" />
     <MESSAGE value="Carousel de armas añadido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carousel de armas añadido" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/docs/index.html</url>
-          <line>997</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Armas con nombre añadido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armas con nombre añadido" />
   </component>
 </project>
