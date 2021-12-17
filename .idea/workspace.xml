@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Armas con nombre añadido">
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Piernas y armas ajustandas a la plantilla">
+      <change afterPath="$PROJECT_DIR$/docs/assets/Videos/WelcomeScreenVideo_New_Compressed.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Videos/WelcomeScreenVideo.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,18 +59,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/Videos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\Videos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\fonts" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
-      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets" />
@@ -108,7 +110,9 @@
       <workItem from="1635270613374" duration="11000" />
       <workItem from="1635270625325" duration="1823000" />
       <workItem from="1635927926284" duration="354000" />
-      <workItem from="1639741486815" duration="22604000" />
+      <workItem from="1639741486815" duration="23539000" />
+      <workItem from="1639771751710" duration="2713000" />
+      <workItem from="1639782890254" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -222,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639764580733</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Piernas y armas ajustandas a la plantilla">
+      <created>1639770288632</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1639770288632</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +275,7 @@
     <MESSAGE value="maquetacion paginas piezas" />
     <MESSAGE value="Carousel de armas añadido" />
     <MESSAGE value="Armas con nombre añadido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Armas con nombre añadido" />
+    <MESSAGE value="Piernas y armas ajustandas a la plantilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Piernas y armas ajustandas a la plantilla" />
   </component>
 </project>
