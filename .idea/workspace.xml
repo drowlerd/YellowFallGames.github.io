@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Ultimos cambios">
-      <change afterPath="$PROJECT_DIR$/docs/assets/3D/pose2.glb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/3D/test.glb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Carousel de armas añadido">
+      <change afterPath="$PROJECT_DIR$/docs/assets/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +13,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zzQjr4vHiiCE0HmLOw9SyCUEeF" />
   <component name="ProjectViewState">
@@ -27,20 +51,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/3D" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\fonts" />
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
-      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio\TFATC" />
-      <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\docs\assets\img\team" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
     </key>
   </component>
@@ -77,7 +102,7 @@
       <workItem from="1635270613374" duration="11000" />
       <workItem from="1635270625325" duration="1823000" />
       <workItem from="1635927926284" duration="354000" />
-      <workItem from="1639741486815" duration="1950000" />
+      <workItem from="1639741486815" duration="18260000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -156,7 +181,35 @@
       <option name="project" value="LOCAL" />
       <updated>1635635674180</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Test 3D">
+      <created>1639743694205</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639743694205</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Escala del modelo ajustada">
+      <created>1639745915896</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639745915896</updated>
+    </task>
+    <task id="LOCAL-00014" summary="maquetacion paginas piezas">
+      <created>1639748926730</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639748926730</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Carousel de armas añadido">
+      <created>1639760745284</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639760745284</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +220,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Models_3D_Pose" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -181,6 +246,22 @@
     <MESSAGE value="Imagen añadida, colores de los fondos y textos cmabiados" />
     <MESSAGE value="Color redes sociales añadido" />
     <MESSAGE value="Ultimos cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ultimos cambios" />
+    <MESSAGE value="Test 3D" />
+    <MESSAGE value="Escala del modelo ajustada" />
+    <MESSAGE value="maquetacion paginas piezas" />
+    <MESSAGE value="Carousel de armas añadido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carousel de armas añadido" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/docs/index.html</url>
+          <line>997</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
