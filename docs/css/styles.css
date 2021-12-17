@@ -12531,3 +12531,13 @@ section#contact form#contactForm :-ms-input-placeholder {
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+#pose{
+    display: flex;
+    /*height:1000px;*/
+
+}
+#3Dmodel{
+    height: 100%;
+
+    /*minimumRenderScale:1;*/
+}
