@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Color redes sociales añadido">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/BattleCoreLogo.png" afterDir="false" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Ultimos cambios">
+      <change afterPath="$PROJECT_DIR$/docs/assets/3D/pose2.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/3D/test.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_10_2021_20_04__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -24,24 +27,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/logos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/3D" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\portfolio\TFATC" />
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\docs\assets\img\team" />
-      <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\A Unity\A YellowFall\YellowFallGames.github.io\src\assets\img\team" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YellowFallGames.github.io/docs/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -53,9 +56,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +76,8 @@
       <workItem from="1635243191212" duration="5466000" />
       <workItem from="1635270613374" duration="11000" />
       <workItem from="1635270625325" duration="1823000" />
+      <workItem from="1635927926284" duration="354000" />
+      <workItem from="1639741486815" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -144,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635635015514</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ultimos cambios">
+      <created>1635635674180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635635674180</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +180,7 @@
     <MESSAGE value="equipo añadidos" />
     <MESSAGE value="Imagen añadida, colores de los fondos y textos cmabiados" />
     <MESSAGE value="Color redes sociales añadido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Color redes sociales añadido" />
+    <MESSAGE value="Ultimos cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimos cambios" />
   </component>
 </project>
