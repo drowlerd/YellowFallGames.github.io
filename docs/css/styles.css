@@ -4229,6 +4229,7 @@ textarea.form-control-lg {
 }
 
 .nav-link {
+    font-weight: bold;
     display: block;
     padding: 0.5rem 1rem;
     color: #f39200;
