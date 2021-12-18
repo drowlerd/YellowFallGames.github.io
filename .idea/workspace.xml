@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Piernas y armas ajustandas a la plantilla">
-      <change afterPath="$PROJECT_DIR$/docs/assets/Videos/WelcomeScreenVideo_New_Compressed.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/web_Battlecore_Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-BattelCore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-Guns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-cores.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-legs.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Videos/WelcomeScreenVideo.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,18 +62,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/Videos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/logos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\Videos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\fonts" />
-      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
-      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets" />
@@ -250,7 +253,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Models_3D_Pose" />
+                        <option value="Piecescolor" />
                       </list>
                     </value>
                   </entry>
