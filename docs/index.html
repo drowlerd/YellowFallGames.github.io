@@ -49,10 +49,15 @@
 
 
     <div class="container mw-100 h-100">
-        <video class="col-lg-12 col-sm-12 col-md-12 w-100" style="padding-top: 0%" poster="assets/Videos/WelcomeScreenPoster.png" autoplay muted loop>
-            <source src="assets/Videos/WelcomeScreenVideo_New_Compressed.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+        <div class="row" style="position: relative;">
+            <video class="col-lg-12 col-sm-12 col-md-12 w-100" style="padding-top: 0%" poster="assets/Videos/WelcomeScreenPoster.png" autoplay muted loop>
+                <source src="assets/Videos/WelcomeScreenVideo_New_Compressed.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div class="d-block w-25" style="position: absolute; bottom: 0%; right: 0%;">
+                <img class="img-fluid" src="assets/img/logos/BattleCoreLogo.png"></img>
+            </div>
+        </div>
     </div>
 
 
@@ -62,7 +67,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
         <!-- Logo -->
-        <a style="width: 80px;height: 80px" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="..."/></a>
+        <a style="width: 80px;height: 40px" href="#page-top">
+            <img class="h-100" style="position: absolute; top:0%;" src="assets/img/navbar-logo.svg" alt="..."/></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
@@ -85,13 +91,9 @@
 <!--BattleCore-->
 <section class="page-section bg-light" id="battlecoresection">
 <div class="text-center">
-    <div class="row justify-content-center">
-        <div class="col-lg-12 col-sm-12 mb-12 w-50">
-            <img class="img-fluid" src="assets/img/logos/BattleCoreLogo.png"></img>
-        </div>
-    </div>
-    <!--<h2 class="section-heading text-uppercase">Battlecore Robots</h2>-->
-    <h3 class="section-subheading text-muted">BattleCore Robots is an arena game of highly competitive combat between customizable robots.</h3>
+    <h2 class="section-heading text-uppercase" style="font-family: Roboto-Black-Italic;">What is Battle<span style="color: #F7931E;">Core</span> Robots?</h2>
+    <h3 class="section-subheading text-muted" style="font-family: Roboto-Black-Italic;">
+        Is an arena game of highly competitive combat between customizable robots.</h3>
 </div>
 <!--Pose Display-->
 <div class="container" style="height: 600px" id="Pose">
@@ -195,7 +197,7 @@
                         <h3 class="section-subheading text-muted">Get a real-life sharky figurine totally FREE!</h3>
                     <div class="row justify-content-center">
                         <div class="col-lg-12 col-sm-12 mb-12 w-50">
-                            <img class="img-fluid" src="assets/img/battlecore/sharky_box-01.png"></img>
+                            <img class="img-fluid" src="assets/3D/battlecores/pose_battlecore_Charky.glb"></img>
                         </div>
                     </div>
                 </div>
