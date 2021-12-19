@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Piernas y armas ajustandas a la plantilla">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/logos/web_Battlecore_Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-BattelCore.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-Guns.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-cores.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/piecesIcons/web_Mesa de trabajo 9-legs.svg" afterDir="false" />
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/team/roberto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/team/roberto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +27,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Iconos_Svg" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,18 +58,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/logos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/team" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\team" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\logos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\img\piecesIcons" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\Videos" />
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\fonts" />
-      <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets\3D" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\AA Cosas Unity\A YellowFall\PortfolioWebsite\docs\assets" />
@@ -116,6 +112,7 @@
       <workItem from="1639741486815" duration="23539000" />
       <workItem from="1639771751710" duration="2713000" />
       <workItem from="1639782890254" duration="60000" />
+      <workItem from="1639954968214" duration="1760000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -236,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639770288632</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Iconos en svg">
+      <created>1639854824134</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639854824134</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado">
+      <created>1639955637735</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1639955637735</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +264,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Piecescolor" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -279,6 +290,9 @@
     <MESSAGE value="Carousel de armas añadido" />
     <MESSAGE value="Armas con nombre añadido" />
     <MESSAGE value="Piernas y armas ajustandas a la plantilla" />
-    <option name="LAST_COMMIT_MESSAGE" value="Piernas y armas ajustandas a la plantilla" />
+    <MESSAGE value="Video" />
+    <MESSAGE value="Iconos en svg" />
+    <MESSAGE value="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado" />
   </component>
 </project>
