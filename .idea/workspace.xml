@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado">
+    <list default="true" id="729fbf1c-8e90-480e-8081-824e2fd0ec9d" name="Default Changelist" comment="Web portfolio Roberto añadida">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/team/roberto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/team/roberto.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,8 @@
       <workItem from="1639741486815" duration="23539000" />
       <workItem from="1639771751710" duration="2713000" />
       <workItem from="1639782890254" duration="60000" />
-      <workItem from="1639954968214" duration="1760000" />
+      <workItem from="1639954968214" duration="2892000" />
+      <workItem from="1639958701794" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635148655751</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639955637735</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Web portfolio Roberto añadida">
+      <created>1639956810814</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639956810814</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +300,7 @@
     <MESSAGE value="Video" />
     <MESSAGE value="Iconos en svg" />
     <MESSAGE value="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Imagen roberto, boton de cores quitado y nombre de daemon core arreglado" />
+    <MESSAGE value="Web portfolio Roberto añadida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web portfolio Roberto añadida" />
   </component>
 </project>
